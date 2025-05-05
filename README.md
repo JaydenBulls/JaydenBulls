@@ -35,6 +35,8 @@ HTML, CSS, JavaScript
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![1C:Enterprise](https://img.shields.io/badge/1C%3AEnterprise-FF0000?style=for-the-badge&logo=1c-enterprise&logoColor=white)
 
+## Мои социальные сети
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilushkins_n)
+[![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/yung_razee)
 
-Followers
 
